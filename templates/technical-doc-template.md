@@ -66,8 +66,12 @@ Si hay comandos no validados, deben ir en una sección aparte.>
 
 ---
 
-## ⚖️ Aviso Legal
-Este documento describe prácticas realizadas en un entorno de laboratorio.  
-No contiene información sensible ni perteneciente a ninguna organización real.  
+⚖️ Aviso Legal
+Este documento describe prácticas realizadas en un entorno de laboratorio.
+No contiene información sensible ni perteneciente a ninguna organización real.
 Las configuraciones y ejemplos son demostraciones técnicas con fines educativos.
+
+🔐 Licencia
+Este documento se distribuye bajo licencia MIT.
+Consulta el archivo LICENSE en la raíz del repositorio para más información.
 
